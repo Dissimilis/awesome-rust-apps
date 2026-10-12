@@ -72,6 +72,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [Tools & Utilities](#tools--utilities)
 - [Database](#database)
+- [Notes & Writing](#notes--writing)
 - [Input Methods](#input-methods)
 - [Graphics & Design](#graphics--design)
 - [Video & Audio](#video--audio)
@@ -158,6 +159,10 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Tabularis](https://github.com/TabularisDB/tabularis) <img align="bottom" height="13" src="https://badgen.net/github/stars/TabularisDB/tabularis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TabularisDB/tabularis?style=flat&label=" /> - Open-source desktop SQL workspace with built-in database drivers and plugins.
 - [Tusk](https://github.com/alpcanaydin/tusk) <img align="bottom" height="13" src="https://badgen.net/github/stars/alpcanaydin/tusk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alpcanaydin/tusk?style=flat&label=" /> - A fast, keyboard-driven database client for macOS, Windows, and Linux.
 - [Zedis](https://github.com/vicanso/zedis) <img align="bottom" height="13" src="https://badgen.net/github/stars/vicanso/zedis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vicanso/zedis?style=flat&label=" /> - A native Redis GUI for browsing and managing large databases.
+
+## Notes & Writing
+
+- [Oleafly](https://github.com/Oleafly/Oleafly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Oleafly/Oleafly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Oleafly/Oleafly?style=flat&label=" /> - Local-first research writing workspace for LaTeX, Typst, and Markdown with optional AI tools.
 
 ## Input Methods
 
