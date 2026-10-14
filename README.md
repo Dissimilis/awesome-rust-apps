@@ -167,6 +167,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Notes & Writing
 
+- [Ashlr MD](https://github.com/ashlrai/ashlr-md) <img align="bottom" height="13" src="https://badgen.net/github/stars/ashlrai/ashlr-md?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ashlrai/ashlr-md?style=flat&label=" /> - An AI-native Markdown app for macOS, Windows, and Linux with free on-device AI.
 - [Oleafly](https://github.com/Oleafly/Oleafly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Oleafly/Oleafly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Oleafly/Oleafly?style=flat&label=" /> - Local-first research writing workspace for LaTeX, Typst, and Markdown with optional AI tools.
 
 ## Input Methods
