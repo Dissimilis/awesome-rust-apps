@@ -74,6 +74,7 @@
 - [数据库](#数据库)
 - [财务](#财务)
 - [笔记与写作](#笔记与写作)
+- [效率](#效率)
 - [输入法](#输入法)
 - [图形与设计](#图形与设计)
 - [视频与音频](#视频与音频)
@@ -176,6 +177,10 @@
 
 - [Ashlr MD](https://github.com/ashlrai/ashlr-md) <img align="bottom" height="13" src="https://badgen.net/github/stars/ashlrai/ashlr-md?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ashlrai/ashlr-md?style=flat&label=" /> - AI 原生的 Markdown 应用，支持 macOS、Windows 和 Linux，内置免费本地 AI。
 - [Oleafly](https://github.com/Oleafly/Oleafly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Oleafly/Oleafly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Oleafly/Oleafly?style=flat&label=" /> - 本地优先的研究写作工作区，支持 LaTeX、Typst 和 Markdown，可选集成 AI 工具。
+
+## 效率
+
+- [ClickPulse](https://github.com/endNone/ClickPulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/endNone/ClickPulse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/endNone/ClickPulse?style=flat&label=" /> - 记录键盘和鼠标活动并可视化每日生产力的效率追踪工具。
 
 ## 输入法
 

@@ -74,6 +74,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Database](#database)
 - [Finance](#finance)
 - [Notes & Writing](#notes--writing)
+- [Productivity](#productivity)
 - [Input Methods](#input-methods)
 - [Graphics & Design](#graphics--design)
 - [Video & Audio](#video--audio)
@@ -176,6 +177,10 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [Ashlr MD](https://github.com/ashlrai/ashlr-md) <img align="bottom" height="13" src="https://badgen.net/github/stars/ashlrai/ashlr-md?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ashlrai/ashlr-md?style=flat&label=" /> - An AI-native Markdown app for macOS, Windows, and Linux with free on-device AI.
 - [Oleafly](https://github.com/Oleafly/Oleafly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Oleafly/Oleafly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Oleafly/Oleafly?style=flat&label=" /> - Local-first research writing workspace for LaTeX, Typst, and Markdown with optional AI tools.
+
+## Productivity
+
+- [ClickPulse](https://github.com/endNone/ClickPulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/endNone/ClickPulse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/endNone/ClickPulse?style=flat&label=" /> - A productivity tracker that visualizes daily keyboard and mouse activity.
 
 ## Input Methods
 
