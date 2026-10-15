@@ -216,6 +216,7 @@
 
 ## AI 与机器学习
 
+- [AI Switch](https://github.com/burakdede/aisw-desktop) <img align="bottom" height="13" src="https://badgen.net/github/stars/burakdede/aisw-desktop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/burakdede/aisw-desktop?style=flat&label=" /> - 本地优先的桌面应用，用于切换不同的 AI 编程智能体。
 - [Kitter](https://github.com/what1f/kitter) <img align="bottom" height="13" src="https://badgen.net/github/stars/what1f/kitter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/what1f/kitter?style=flat&label=" /> - 轻量的 AI Skill 管理工具。
 - [littleguys](https://github.com/herval/littleguys) <img align="bottom" height="13" src="https://badgen.net/github/stars/herval/littleguys?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/herval/littleguys?style=flat&label=" /> - 免费开源的 Mac 应用，以类似 WhatsApp 的方式与你的 AI 智能体聊天。
 - [Metis](https://github.com/Wholiver/metis) <img align="bottom" height="13" src="https://badgen.net/github/stars/Wholiver/metis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Wholiver/metis?style=flat&label=" /> - 开源的 AI 编程 Agent 工具。
