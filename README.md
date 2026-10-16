@@ -75,6 +75,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Finance](#finance)
 - [Notes & Writing](#notes--writing)
 - [Productivity](#productivity)
+- [Reading & Research](#reading--research)
 - [Input Methods](#input-methods)
 - [Graphics & Design](#graphics--design)
 - [Video & Audio](#video--audio)
@@ -182,6 +183,10 @@ Contributions are welcome via PR, and I will feature your app on my social media
 ## Productivity
 
 - [ClickPulse](https://github.com/endNone/ClickPulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/endNone/ClickPulse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/endNone/ClickPulse?style=flat&label=" /> - A productivity tracker that visualizes daily keyboard and mouse activity.
+
+## Reading & Research
+
+- [LightRead 轻阅](https://github.com/yzfly/LightRead) <img align="bottom" height="13" src="https://badgen.net/github/stars/yzfly/LightRead?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yzfly/LightRead?style=flat&label=" /> - A local-first ebook and paper reader with library management, reading progress, and annotations.
 
 ## Input Methods
 

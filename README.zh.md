@@ -75,6 +75,7 @@
 - [财务](#财务)
 - [笔记与写作](#笔记与写作)
 - [效率](#效率)
+- [阅读与研究](#阅读与研究)
 - [输入法](#输入法)
 - [图形与设计](#图形与设计)
 - [视频与音频](#视频与音频)
@@ -182,6 +183,10 @@
 ## 效率
 
 - [ClickPulse](https://github.com/endNone/ClickPulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/endNone/ClickPulse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/endNone/ClickPulse?style=flat&label=" /> - 记录键盘和鼠标活动并可视化每日生产力的效率追踪工具。
+
+## 阅读与研究
+
+- [LightRead 轻阅](https://github.com/yzfly/LightRead) <img align="bottom" height="13" src="https://badgen.net/github/stars/yzfly/LightRead?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yzfly/LightRead?style=flat&label=" /> - 本地优先的电子书与论文阅读器，支持藏书管理、阅读进度和批注。
 
 ## 输入法
 
